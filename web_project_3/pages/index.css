@@ -4,9 +4,6 @@
 
 @import url(../blocks/page/page.css);
 
-@import url(../blocks/section/section.css);
-
-
 @import url(../blocks/header/header.css);
 
 @import url(../blocks/lead/lead.css);
@@ -19,24 +16,10 @@
 
 @import url(../blocks/place/place.css);
 
+@import url(../blocks/place-paragraph/place-paragraph.css);
+
+@import url(../blocks/place-website/place-website.css);
+
 @import url(../blocks/cover/cover.css);
 
 @import url(../blocks/footer/footer.css);
-
-
-
-
-
-
-
-@media screen and (max-width: 1024px) {
-
-}
-
-@media screen and (max-width: 768px) {
-
-}
-
-@media screen and (max-width: 320px) {
-
-}
