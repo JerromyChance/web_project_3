@@ -1,8 +1,0 @@
-@import url(./_text-bold/intro__list-item_text-bold.css);
-
-.intro__list-item {
-    font-style: normal;
-    font-weight: bold;
-    font-size: 12px;
-    line-height: 18px;
-}
