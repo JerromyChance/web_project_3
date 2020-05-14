@@ -1,0 +1,22 @@
+@import url(./__link/place-website__link.css);
+
+@import url(./__url-heading/place-website__url_heading.css);
+
+.place-website {
+    margin: 20px 0 48px 0;
+    font-family: 'Inter', Arial, sans-serif;
+    color: white;
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+    .place-website {
+      margin: 0;
+      margin-bottom: 48px;
+    }
+  }
+  
+  @media screen and (min-width: 320px) and (max-width: 767px) {
+    .place-website {
+      display: none;
+    }
+  }

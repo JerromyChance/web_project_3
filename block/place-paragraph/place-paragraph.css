@@ -1,0 +1,6 @@
+@import url(./__item/place-paragraph__item.css);
+
+.place-paragraph {
+    font-family: 'Inter', Arial, sans-serif;
+    color: white;
+}
