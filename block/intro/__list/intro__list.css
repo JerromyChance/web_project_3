@@ -1,4 +1,9 @@
+@import url(./-accent/intro__list-accent.css);
+
 .intro__list {
     list-style: none;
     padding: 20px 0;
+    font-family: 'Inter', Arial, sans-serif;
+    font-size: 12px;
+    line-height: 18px;
 }
