@@ -1,6 +1,7 @@
 # Project 3: From Portland to Portland
 
-github: https://github.com/JerromyChance/web_project_3
+https://jerromychance.github.io/web_project_3/.
+
 
 ### A project showing the trip across the United States. The trip starts in portland, ME and ends in Portland, OR.
 
